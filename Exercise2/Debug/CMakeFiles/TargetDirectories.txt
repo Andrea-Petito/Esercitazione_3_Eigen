@@ -1,3 +1,0 @@
-/home/appuser/Data/Esercitazione2/Exercise2/Debug/CMakeFiles/LinearSystem.dir
-/home/appuser/Data/Esercitazione2/Exercise2/Debug/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Esercitazione2/Exercise2/Debug/CMakeFiles/rebuild_cache.dir
